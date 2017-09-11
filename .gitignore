@@ -1,1 +1,4 @@
 *.pyc
+.idea/
+secret.py
+.cache/
